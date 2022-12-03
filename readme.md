@@ -2,4 +2,4 @@
 
 ![image](https://chengxg.github.io/simple-create-password/demo.png)
 
-[密码生成器demo](https://chengxg.github.io/simple-create-password/pwd.html)
+[密码生成器demo](http://demo.chengxg.top/create-password/pwd.html)
